@@ -1,0 +1,13 @@
+@import 'leaflet/dist/leaflet.css';
+@import 'tailwindcss';
+
+body {
+  margin: 0;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  background: #f8fafc;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
